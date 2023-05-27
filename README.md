@@ -1,13 +1,12 @@
-# Mappa-dicey-Tech-Competition
+# Mappa-Dicey-Tech-Competition
  Creating a Master Property List for London
  
- 
- 
  ## Research
- 
  # Problem Statement
  
- # Steps
+# Steps
 #Data Collection
-#Data Preprocessing 
-#Feature Engineering
+#Webs Scraping
+
+#Data Cleaning
+#Data merge and Blending
